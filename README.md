@@ -1,6 +1,12 @@
-# Project---Automated-Wheelchair
-# Automated Wheelchair Prototype with Hand Gesture and Bluetooth Control
-In this project, I had developed a wheelchair prototype that can be controlled through hand gestures and Bluetooth connectivity. The use of hand gestures allows the user to navigate the wheelchair by simply moving their hands in specific patterns or gestures, eliminating the need for physical buttons or joysticks.
-The prototype also incorporates Bluetooth technology, enabling the user to control the wheelchair remotely using a smartphone or other Bluetooth-enabled devices. This adds convenience and flexibility to the control mechanism, as the user can operate the wheelchair from a distance without the need for direct physical interaction.
-The combination of hand gesture control and Bluetooth connectivity opens up new possibilities for wheelchair users, providing them with a more intuitive and customizable way to navigate their environment. It offers increased independence and freedom of movement, empowering individuals with mobility challenges to navigate their surroundings with ease.
-This project showcases the potential of integrating advanced technologies into assistive devices like wheelchairs, ultimately improving the quality of life for individuals with mobility impairments. It's an exciting example of how innovation and technology can make a positive impact on people's lives.
+# ♿ Smart Gesture-Controlled Wheelchair Prototype
+This project is a gesture-controlled wheelchair prototype developed with the help of friends, teachers, online resources (Google, YouTube, ChatGPT), and reference projects. The wheelchair can be operated using hand gestures and Bluetooth connectivity, allowing users to move it without traditional controls like joysticks.
+
+Key features include:
+
+Hand Gesture Control: Move your hand in specific directions to navigate the wheelchair.
+
+Bluetooth Support: Control the wheelchair remotely via a smartphone or Bluetooth-enabled device.
+
+Assistive Innovation: Aims to enhance independence for individuals with mobility challenges.
+
+# 🔧 Note: This is a self-learning project created by referencing existing solutions. While not fully original, we built and understood it from scratch.
